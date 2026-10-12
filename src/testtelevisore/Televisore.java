@@ -17,5 +17,6 @@ public class Televisore {
         this.pollici=pollici;
     }
     
+    iluy kiyu y iuy ui
 }
 
